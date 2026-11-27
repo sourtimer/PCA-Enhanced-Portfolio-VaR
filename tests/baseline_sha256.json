@@ -1,0 +1,10 @@
+{
+  "results/tables/monte_carlo/all_methods_daily_predictions.csv": "a98c6bc970f976759907ba09acc268434f742dd5badedf71153b6f726fb3d02c",
+  "results/tables/monte_carlo/all_methods_backtest_summary.csv": "d7cbe872029a47a8e07079b548c7ff3cf0770fc17882c7428556b2e18bd09ac2",
+  "results/tables/pca_window_diagnostics.csv": "c9a9d9e63624d2e63abd8b21f0a06b03b4890da2f2fcc47f927d0c962e5016ec",
+  "results/tables/pca_sensitivity_daily.csv": "b3ec530911e015e0b9764ae1ff823e076addc4ca6bef88f40b93879b3dbe0eb9",
+  "results/tables/pca_sensitivity_backtest_detail.csv": "7e74c30d2ee141c9f8d31a2ee150bf0b5646f37f58f596ed1cd75f09d55b41b5",
+  "data/eda_reference/ETF-correlation.csv": "f32aecf4387e8dcf226ec1c9a16f046e7aa9881e57f9d592b0037f623c55abaa",
+  "data/eda_reference/PCA-explained-variance.csv": "8e09d46fd086d6dbe115c14dd60ad123b5a44d0aac5ac20b061dd245c52a4f05",
+  "data/eda_reference/PCA-loadings.csv": "2a4130bfb4c00ce51d347a350cdb32e21a0121662243a904dacd2aed5fbedf8c"
+}

@@ -1,0 +1,3 @@
+﻿Date,portfolio,method,confidence,VaR,actual_return,actual_loss,violation,training_end_date
+2021-12-28,EqualWeight,MonteCarlo_Normal,0.95,0.018131087501093258,-0.000635211930099927,0.000635211930099927,0,2021-12-27
+2021-12-28,EqualWeight,MonteCarlo_Normal,0.99,0.025656733602694434,-0.000635211930099927,0.000635211930099927,0,2021-12-27

@@ -1,0 +1,4 @@
+-r requirements.txt
+streamlit>=1.36,<2
+plotly>=5.20,<7
+uvicorn>=0.52,<1

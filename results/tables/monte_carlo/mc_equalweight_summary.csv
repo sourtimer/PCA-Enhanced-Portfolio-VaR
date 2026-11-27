@@ -1,0 +1,3 @@
+﻿portfolio,confidence,method,backtest_days,breaches,actual_breach_rate,expected_rate,expected_breaches,Kupiec_LR,Kupiec_p_value,reject_at_5pct
+EqualWeight,0.95,MonteCarlo_Normal,1194,52,0.04355108877721943,0.050000000000000044,59.70000000000005,1.0909688578083259,0.29625664098682597,False
+EqualWeight,0.99,MonteCarlo_Normal,1194,21,0.017587939698492462,0.010000000000000009,11.94000000000001,5.664009090568129,0.0173164968340883,True
